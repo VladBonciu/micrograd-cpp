@@ -1,0 +1,16 @@
+﻿  BatchReadCSV.cpp
+C:\Users\vladb\Downloads\mnist-cpp\BatchReadCSV.cpp(131,79): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\vladb\Downloads\mnist-cpp\BatchReadCSV.cpp(131,79): warning C4267:         with
+C:\Users\vladb\Downloads\mnist-cpp\BatchReadCSV.cpp(131,79): warning C4267:         [
+C:\Users\vladb\Downloads\mnist-cpp\BatchReadCSV.cpp(131,79): warning C4267:             _Ty=unsigned int
+C:\Users\vladb\Downloads\mnist-cpp\BatchReadCSV.cpp(131,79): warning C4267:         ]
+C:\Users\vladb\Downloads\mnist-cpp\BatchReadCSV.cpp(149,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vladb\Downloads\mnist-cpp\BatchReadCSV.cpp(150,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Network.cpp
+  train.cpp
+C:\Users\vladb\Downloads\mnist-cpp\train.cpp(155,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vladb\Downloads\mnist-cpp\train.cpp(359,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Value.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  micrograd-cpp.vcxproj -> C:\Users\vladb\Downloads\mnist-cpp\x64\Release\micrograd-cpp.exe
