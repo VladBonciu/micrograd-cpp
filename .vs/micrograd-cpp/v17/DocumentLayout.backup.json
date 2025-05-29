@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|C:\\Users\\vladb\\Downloads\\mnist-cpp\\train.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|solutionrelative:train.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|C:\\Users\\vladb\\Downloads\\mnist-cpp\\BatchReadCSV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|solutionrelative:BatchReadCSV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +42,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BatchReadCSV.cpp",
+              "DocumentMoniker": "C:\\Users\\vladb\\Downloads\\mnist-cpp\\BatchReadCSV.cpp",
+              "RelativeDocumentMoniker": "BatchReadCSV.cpp",
+              "ToolTip": "C:\\Users\\vladb\\Downloads\\mnist-cpp\\BatchReadCSV.cpp",
+              "RelativeToolTip": "BatchReadCSV.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T19:53:54.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "train.cpp",
               "DocumentMoniker": "C:\\Users\\vladb\\Downloads\\mnist-cpp\\train.cpp",
               "RelativeDocumentMoniker": "train.cpp",
               "ToolTip": "C:\\Users\\vladb\\Downloads\\mnist-cpp\\train.cpp",
               "RelativeToolTip": "train.cpp",
-              "ViewState": "AgIAAG0BAAAAAAAAAAAewH8BAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAGsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-29T14:31:50.012Z",
               "EditorCaption": ""

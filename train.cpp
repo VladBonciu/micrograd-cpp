@@ -98,6 +98,7 @@ void softmax(std::vector<std::shared_ptr<Value>>& x)
 		x[z] = softmax_value; // Update x[z] to softmax result
 	}
 
+	//Calculte jacobian for softmax
 	for (int i = 0; i < x.size(); i++)
 	{
 		x[i]->_backward = [i, x]()
