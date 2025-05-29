@@ -1,4 +1,0 @@
-﻿  train.cpp
-C:\Users\vladb\Downloads\mnist-cpp\train.cpp(155,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\vladb\Downloads\mnist-cpp\train.cpp(359,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  micrograd-cpp.vcxproj -> C:\Users\vladb\Downloads\mnist-cpp\x64\Debug\micrograd-cpp.exe
