@@ -4,6 +4,8 @@ My version of a small **reversed automatic differentiation engine**, along with 
 
 The project is made in _**Visual Studio 2022**_.
 
+
+
 ## Results
 
 I managed to train this model to an **accuracy of 97.5%** on the [Iris Flower Dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset) using the following settings:
@@ -49,6 +51,10 @@ I encourage anyone interesed to add/fix any of these features to contribute!
 * Adding any more desired activation functions
 * Creating a designated learning rate scheduler.
 * Anything else you think this project might need! :)
+
+### Credits
+
+Inspired by karpathy's [micrograd](https://github.com/karpathy/micrograd).
 
 ## License
 
