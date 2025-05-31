@@ -1,6 +1,8 @@
 # micrograd-cpp 🧠
 
-My version of a small **reversed automatic differentiation engine**, along with a multi-layer perceptron that can be trained and tested for accuracy.
+My version of a small **reversed automatic differentiation engine**, along with a multi-layer perceptron that can be trained and tested for accuracy. 
+
+The project is made in _**Visual Studio 2022**_.
 
 ## Results
 
