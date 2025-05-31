@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\train.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|solutionrelative:train.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\train.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|solutionrelative:train.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\BatchReadCSV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|solutionrelative:BatchReadCSV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\Network.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|solutionrelative:Network.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\Value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|solutionrelative:Value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\BatchReadCSV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DAC1474-12AF-C2D6-583D-1416871EF42B}|micrograd-cpp.vcxproj|solutionrelative:BatchReadCSV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +58,77 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Network.cpp",
+              "DocumentMoniker": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\Network.cpp",
+              "RelativeDocumentMoniker": "Network.cpp",
+              "ToolTip": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\Network.cpp",
+              "RelativeToolTip": "Network.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-31T16:09:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Value.cpp",
+              "DocumentMoniker": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\Value.cpp",
+              "RelativeDocumentMoniker": "Value.cpp",
+              "ToolTip": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\Value.cpp",
+              "RelativeToolTip": "Value.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-30T18:29:37.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BatchReadCSV.h",
+              "DocumentMoniker": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\BatchReadCSV.h",
+              "RelativeDocumentMoniker": "BatchReadCSV.h",
+              "ToolTip": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\BatchReadCSV.h",
+              "RelativeToolTip": "BatchReadCSV.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-30T10:24:29.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BatchReadCSV.cpp",
+              "DocumentMoniker": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\BatchReadCSV.cpp",
+              "RelativeDocumentMoniker": "BatchReadCSV.cpp",
+              "ToolTip": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\BatchReadCSV.cpp",
+              "RelativeToolTip": "BatchReadCSV.cpp",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAgwJ0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-30T10:23:21.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "train.h",
+              "DocumentMoniker": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\train.h",
+              "RelativeDocumentMoniker": "train.h",
+              "ToolTip": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\train.h",
+              "RelativeToolTip": "train.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-30T10:17:59.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "train.cpp",
               "DocumentMoniker": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\train.cpp",
               "RelativeDocumentMoniker": "train.cpp",
               "ToolTip": "C:\\Users\\vladb\\Downloads\\micrograd-cpp\\micrograd-cpp\\train.cpp",
               "RelativeToolTip": "train.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAIwMIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-29T20:01:01.282Z",
               "EditorCaption": ""

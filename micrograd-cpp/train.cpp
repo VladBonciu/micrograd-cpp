@@ -78,12 +78,10 @@ void load_weights(const char* file_path, std::vector<std::shared_ptr<Value>>& wb
 
 void softmax(std::vector<std::shared_ptr<Value>>& x)
 {
-	// Calculating sum(e^ypred) for the softmax function
 	auto sum_of_exp = std::make_shared<Value>(0.000000001);
 
 	std::vector<std::shared_ptr<Value>> exp_values;
 
-	// First pass: Compute exp(x) and store in exp_values
 	for (int z = 0; z < x.size(); z++)
 	{
 		auto exp = x[z]->exp();
@@ -91,7 +89,6 @@ void softmax(std::vector<std::shared_ptr<Value>>& x)
 		sum_of_exp = *sum_of_exp + exp_values[z]; // Accumulate the sum of exp values
 	}
 
-	// Second pass: Normalize by dividing by the sum
 	for (int z = 0; z < x.size(); z++)
 	{
 		auto softmax_value = *exp_values[z] / sum_of_exp;
@@ -195,7 +192,7 @@ int main()
 	auto batch_size = std::make_shared<Value>(BATCH_SIZE);
 	double min_loss = 1000;
 
-	/*load weights in ordder to train the model in multiple sessions*/
+	/*load weights in order to train the model in multiple sessions*/
 	//load_weights("wb.txt", wb, starting_batch, starting_epoch);
 
 	printf_s("starting training with: BATCH_SIZE - %d | EPOCH_SIZE - %d | lr - %f | batches - %d\n", BATCH_SIZE, N_EPOCHS , learning_rate, batches);
@@ -259,7 +256,7 @@ int main()
 
 				for (int j = 0; j < N_OUTPUT; j++)
 				{
-					/*MSE LOSS*/
+					/*MSE Loss*/
 					auto diff = *yt[j] - ys[i][j];
 					auto loss = *diff * diff;
 					total_loss = *total_loss + loss;

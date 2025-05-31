@@ -4,7 +4,7 @@ std::shared_ptr<Value> rand_val(int n_in)
 {
 	std::random_device dev;
 	std::mt19937_64 rng(dev());
-	// Xavier/Glorot initialization
+	// He initialization
 	double limit = sqrt(2.0 / n_in);
 	std::uniform_real_distribution<> dist(-limit, limit);
 	return std::make_shared<Value>(dist(rng));
