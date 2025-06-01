@@ -10,6 +10,8 @@ The project is made in _**Visual Studio 2022**_.
 
 I managed to train this model to an **accuracy of 97.5%** on the [Iris Flower Dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset) using the following settings:
 
+**NN Structure:** _(IN)_ **4 - 16 - 16 - 3** _(OUT)_
+
 **Epochs:** 10
 
 **Batch Size:** 8
